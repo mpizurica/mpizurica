@@ -2,8 +2,8 @@
 
 
 
-- 🎓 I'm currently in my PhD, working on developing deep learning models for medical applications.
-- 🎓 I conduct my research at Ghent University ([IDLab](https://www.ugent.be/ea/idlab/en)) and Stanford University ([Gevaert Lab](https://med.stanford.edu/gevaertlab.html)) (50% at both unis).
+- 🎓 My research focuses on developing deep learning models for medical applications.
+- 🎓 For my PhD, I was supervised at Ghent University ([IDLab](https://www.ugent.be/ea/idlab/en)) and Stanford University ([Gevaert Lab](https://med.stanford.edu/gevaertlab.html)) (50% at both unis).
 - 🧬 My work focuses on deep learning on digital pathology images and (gen)omics to predict tumor aggressiveness.
 - :dizzy: For my research, see my [Google Scholar](https://scholar.google.com/citations?user=LrxvB8MAAAAJ&hl=en).
 - :envelope_with_arrow: Contact me at marija.pizurica@ugent.be or mpizuric@stanford.edu.
